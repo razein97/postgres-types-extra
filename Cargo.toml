@@ -3,6 +3,7 @@ name = "postgres-types-extra"
 authors = ["Rohit Singh <razein@wizql.com>"]
 version = "0.1.0"
 edition = "2024"
+description = "Conversions for rust and postgres types"
 keywords = ["types", "postgres", "tokio-postgres"]
 license-file = "LICENSE"
 homepage = "https://github.com/razein97/postgres-types-extra"
