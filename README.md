@@ -20,3 +20,9 @@ Supports conversions for the following postgres types:
 - TsVector
 - Xid
 - Xml
+
+Install via crates.io
+
+```sh
+cargo add postgres-types-extra
+```
