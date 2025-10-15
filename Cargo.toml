@@ -22,7 +22,7 @@ postgis = "0.9"
 postgres-protocol = "0.6"
 postgres-types = "0.2"
 rust_decimal = "1.38"
-postgres_range = { git = "https://github.com/razein97/rust-postgres-range.git", features = [
+postgres_range = { version = "0.11", git = "https://github.com/razein97/rust-postgres-range.git", features = [
     "with-chrono-0_4",
     "with-decimal-1",
 ] }
