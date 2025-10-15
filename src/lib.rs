@@ -6,6 +6,7 @@ pub mod pg_interval;
 pub mod pg_line;
 pub mod pg_lsn;
 pub mod pg_macaddr8;
+pub mod pg_numrange;
 pub mod pg_path;
 pub mod pg_point;
 pub mod pg_polygon;
